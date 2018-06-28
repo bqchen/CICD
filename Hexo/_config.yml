@@ -78,7 +78,7 @@ theme: fexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: ssh://git@github.com/bqchen/bqchen.github.io
-  #repo: git@github.com:bqchen/bqchen.github.io
+  #repo: ssh://git@github.com/bqchen/bqchen.github.io
+  repo: git@github.com:bqchen/bqchen.github.io
   #repo: http://github.com/bqchen/bqchen.github.io.git
   branch: master
